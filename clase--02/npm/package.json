@@ -1,0 +1,12 @@
+{
+  "name": "coderhouse70240",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["test", "npm"],
+  "author": "Tinki Winki",
+  "license": "ISC",
+  "description": "Actualizacion de funciones"
+}
