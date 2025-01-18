@@ -1,0 +1,20 @@
+{
+  "name": "clase--03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js --mode desarrollo", 
+    "start": "node --watch src/app.js --mode produccion"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^13.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}
