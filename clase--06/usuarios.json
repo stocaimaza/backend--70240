@@ -1,0 +1,82 @@
+[
+  {
+    "first_name": "Ana",
+    "last_name": "Gomez",
+    "email": "ana.gomez@example.com",
+    "password": "password123",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Carlos",
+    "last_name": "Lopez",
+    "email": "carlos.lopez@example.com",
+    "password": "password123",
+    "role": "admin",
+    "pets": []
+  },
+  {
+    "first_name": "Laura",
+    "last_name": "Martinez",
+    "email": "laura.martinez@example.com",
+    "password": "password123",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Jose",
+    "last_name": "Perez",
+    "email": "jose.perez@example.com",
+    "password": "password123",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Mariana",
+    "last_name": "Fernandez",
+    "email": "mariana.fernandez@example.com",
+    "password": "password123",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Miguel",
+    "last_name": "Hernandez",
+    "email": "miguel.hernandez@example.com",
+    "password": "password123",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Elena",
+    "last_name": "Sanchez",
+    "email": "elena.sanchez@example.com",
+    "password": "password123",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Rafael",
+    "last_name": "Martinez",
+    "email": "rafael.martinez@example.com",
+    "password": "password123",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Gabriela",
+    "last_name": "Diaz",
+    "email": "gabriela.diaz@example.com",
+    "password": "password123",
+    "role": "admin",
+    "pets": []
+  },
+  {
+    "first_name": "Pedro",
+    "last_name": "Ruiz",
+    "email": "pedro.ruiz@example.com",
+    "password": "password123",
+    "role": "user",
+    "pets": []
+  }
+]
